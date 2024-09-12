@@ -18,10 +18,10 @@ The following table is going to describe about some of the restaurants that are 
 ---
 ### my favorite quotes
 
-" Laughter is brightest where food is best." 
-
-"Life is uncertain. Eat dessert first." 
-
-"Ernestine Ulmer"
+> " Laughter is brightest where food is best." 
+>
+>"Life is uncertain. Eat dessert first." 
+>
+>"Ernestine Ulmer"
 
 
