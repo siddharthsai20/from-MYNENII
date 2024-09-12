@@ -7,3 +7,8 @@ i like chess because  Chess requires **imagination** and **thinking outside the 
 1. Garry Kasparov
 2. Viswanathan Anand
 3. Bobby Fischer
+#### places you can play the sport
+* tournaments
+* home
+* indoor leagues
+  
