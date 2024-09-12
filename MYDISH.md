@@ -14,3 +14,14 @@ The following table is going to describe about some of the restaurants that are 
 |silverspoon|Their version is slightly sweeter with a buttery, velvety sauce that pairs perfectly with naan|vijayawada|
 |alfha|Their butter chicken slow-cooked in a tandoor, celebrated for its smoky flavor and rich creamy texture|vijayawada| 
 |gismath|The dish here is cooked traditionally with tandoori chicken in a creamy, mildly spiced tomato sauce|vijayawada|
+
+---
+### my favorite quotes
+
+" Laughter is brightest where food is best." 
+
+"Life is uncertain. Eat dessert first." 
+
+"Ernestine Ulmer"
+
+
