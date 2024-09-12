@@ -24,4 +24,16 @@ The following table is going to describe about some of the restaurants that are 
 >
 > *Ernestine Ulmer*
 
+---
+### How to check memory usage
+
+This snippet in Python checks the total memory an object consumes.
+~~~
+import sys
+
+a = 100;
+print(sys.getsizeof(a))
+~~~
+[source](https://stackoverflow.com/questions/17574076/what-is-the-difference-between-len-and-sys-getsizeof-methods-in-python)
+
 
